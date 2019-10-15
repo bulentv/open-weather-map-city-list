@@ -1,0 +1,10 @@
+{
+  "name": "city-list",
+  "version": "1.0.0",
+  "description": "Open Weather Map City List",
+  "main": "index.js",
+  "repository": "https://github.com/bulentv/city-list",
+  "author": "Bulent Vural",
+  "license": "MIT",
+  "private": false
+}
