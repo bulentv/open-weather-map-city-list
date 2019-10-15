@@ -1,2 +1,2 @@
 
-module.exports = JSON.parse(require('fs').readFileSync('city.list.json', 'utf8'));
+module.exports = JSON.parse(require('fs').readFileSync(require('path').join(__dirname, './city.list.json'), 'utf8'));

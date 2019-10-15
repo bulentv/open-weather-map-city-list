@@ -1,10 +1,27 @@
 {
-  "name": "city-list",
-  "version": "1.0.0",
+  "name": "open-weather-map-city-list",
+  "version": "1.0.1",
   "description": "Open Weather Map City List",
   "main": "index.js",
-  "repository": "https://github.com/bulentv/city-list",
-  "author": "Bulent Vural",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bulentv/open-weather-map-city-list.git"
+  },
+  "author": "Bulent Vural <bulentv@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/bulentv/open-weather-map-city-list/issues"
+  },
+  "homepage": "https://github.com/bulentv/open-weather-map-city-list#readme",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "open",
+    "weather",
+    "map",
+    "city",
+    "list"
+  ]
 }
